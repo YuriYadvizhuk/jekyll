@@ -1,1 +1,1 @@
- https://yuriyadvizhuk.github.io/my-research/
+ https://yuriyadvizhuk.github.io/jekyll/
